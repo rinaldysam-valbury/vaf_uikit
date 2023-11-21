@@ -23,6 +23,7 @@ class VAFIcons {
   static const ICON_LOGO = '$_path/logo.svg';
   static const ICON_LOGOUT = '$_path/logout.svg';
   static const ICON_GIFT = '$_path/gift.svg';
+  static const ICON_GROUP = '$_path/group.png';
 
   static const ICON_MARKET_ACTIVE = '$_path/market-active.svg';
   static const ICON_MARKET_INACTIVE = '$_path/market-inactive.svg';
